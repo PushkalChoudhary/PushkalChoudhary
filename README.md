@@ -21,13 +21,13 @@
 - Data Analysis  
 - Dashboarding (Power BI & Tableau)  
 - SQL Queries & Data Extraction  
-- Python for Data & Automation  
+- Python for Data Analytics 
 - R Programming  
 - Financial Modeling  
-- Excel (Advanced Functions, Charts, VBA Basics)  
+- Excel 
 - Data Cleaning & Transformation  
 - Visualization & Reporting  
-- AI & Automation Basics
+- AI
 
 ---
 
