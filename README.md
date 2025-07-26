@@ -12,9 +12,6 @@
   <img src="https://img.icons8.com/ios-filled/96/sql.png" height="48" alt="SQL"/>
   <img src="https://www.r-project.org/Rlogo.png" height="48" alt="R Programming"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="48" alt="Excel"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_intelligence_logo.png" height="48" alt="AI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Economics.svg/120px-Economics.svg.png" height="48" alt="Economics"/>
-
 </p>
 
 ---
