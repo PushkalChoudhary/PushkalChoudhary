@@ -61,7 +61,7 @@ _BA(Hons.) Economics_
 <p align="left">
   <b>🔗 LinkedIn:</b> <a href="https://www.linkedin.com/in/pushkal-choudhary-16314325b" target="_blank">linkedin.com/in/pushkal-choudhary-16314325b</a><br>
   <b>📧 Email:</b> pushkalchoudhary1@gmail.com<br>
-  <b>📍 Location:</b> Delhi NCR, India
+ 
 </p>
 
 ---
