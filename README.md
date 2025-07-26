@@ -1,5 +1,5 @@
 <h1 align="center">Pushkal</h1>
-<p align="center">Analytics · Economics · Visualization · Automation</p>
+<p align="center">Analytics · Economics · Visualization · AI</p>
 
 ---
 
