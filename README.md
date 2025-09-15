@@ -45,9 +45,15 @@
 <!-- EDUCATION -->
 ### 🎓 Education
 
+<div align="center">
+
 **Delhi Technological University (DTU)**  
-_BA(Hons.) Economics_  
-📍 Delhi, India  
+_B.A. (Hons.) Economics_  
+
+**Manipal Academy of Higher Education (MAHE)**  
+_Post Graduate Certificate Program (PGCP) in Business Analytics_  
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=435&lines=Exploring+AI+to+Solve+Real+Problems" alt="AI SVG" />
