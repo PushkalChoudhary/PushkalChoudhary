@@ -51,7 +51,7 @@
 _B.A. (Hons.) Economics_  
 
 **Manipal Academy of Higher Education (MAHE)**  
-_Post Graduate Certificate Program (PGCP) in Business Analytics_  
+_PGCP - Business Analytics_  
 
 </div>
 
