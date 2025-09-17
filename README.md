@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Pushkal Choudhary</h1>
-<p align="center"><i>Analytics · Economics · Visualization · Finance · Marketing</i></p>
+<p align="center"><i>Analytics · Economics  · Finance · Marketing</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0abde3&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Designing+Dashboards+that+Talk;Building+Logic+Behind+Numbers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0abde3&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;Building+Logic+Behind+Numbers" alt="Typing SVG" />
 </p>
 
 ---
